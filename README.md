@@ -7,14 +7,13 @@ A PyTorch-based training and evaluation loop for fine-tuning Hugging Face Transf
 
 ## 📁 Repository Structure
 
-
-├── fullTrainingLoop.ipynb # Jupyter notebook with end-to-end code
-├── train.py # Training script
-├── eval.py # Evaluation script
-├── requirements.txt # Python dependencies
-├── data/ # Dataset loading and preprocessing
-├── models/ # Model checkpoints and outputs
-└── README.md # This file
+- fullTrainingLoop.ipynb # Jupyter notebook with end-to-end code
+- train.py # Training script
+- eval.py # Evaluation script
+- requirements.txt # Python dependencies
+- data/ # Dataset loading and preprocessing
+- models/ # Model checkpoints and outputs
+- README.md # This file
 
 
 ---
